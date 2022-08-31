@@ -1,0 +1,23 @@
+<html>
+<title>
+Sangeet2Music Home
+</title>
+<link rel="shortcut icon" href="https://yt3.ggpht.com/ytc/AKedOLS7HoZHm5fSGyK6ENCNYjAIYNPfmIEE7SUXBag1kQ=s900-c-k-c0x00ffffff-no-rj" type="image/jpg"/>
+<style type="text/css">
+h1{
+font-size: 50px;
+color: #3FA796;
+}
+
+a:link{
+text-decoration: none;
+}
+
+body{background-color:FCD2D1
+}
+</style>
+<body>
+<center><h1>Home</h1></center>
+<a href="" ><h2>Hindi Songs</h2></a>
+</body>
+</html>
